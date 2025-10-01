@@ -1,2 +1,2 @@
-z = 40
-print(z)
+abc = "hello"
+print(abc)
